@@ -1,0 +1,24 @@
+{
+  "name": "script-style-performance",
+  "version": "1.0.0",
+  "description": "Performance test for script and style tags",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo 'no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harttle/script-style-performance.git"
+  },
+  "author": "harttle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harttle/script-style-performance/issues"
+  },
+  "homepage": "https://github.com/harttle/script-style-performance#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "puppeteer": "^1.17.0"
+  }
+}
